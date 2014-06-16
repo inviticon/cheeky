@@ -33,6 +33,7 @@
 	</smiley>
 	<smiley file="dance.gif">
 		<code>\o/</code>
+		<code>(dance)</code>
 	</smiley>
 	<smiley file="facepalm.gif">
 		<code>m(</code>
@@ -47,6 +48,7 @@
 		<code>(headbang)</code>
 	</smiley>
 	<smiley file="lol.gif">
+		<code>:-D</code>
 		<code>(lol)</code>
 		<code>*lol*</code>
 		<code>:lol:</code>
