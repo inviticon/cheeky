@@ -22,6 +22,15 @@
   -->
 
 <smileys>
+	<smiley file="blush.gif">
+		<code>(blush)</code>
+	</smiley>
+	<smiley file="chuckle.gif">
+		<code>(chuckle)</code>
+	</smiley>
+	<smiley file="clap.gif">
+		<code>(clap)</code>
+	</smiley>
 	<smiley file="dance.gif">
 		<code>\o/</code>
 	</smiley>
@@ -37,13 +46,21 @@
 	<smiley file="headbang.gif">
 		<code>(headbang)</code>
 	</smiley>
-	<smiley file="shake.gif">
-		<code>(shake)</code>
-	</smiley>
-	<smiley file="worry.gif">
-		<code>(worry)</code>
+	<smiley file="lol.gif">
+		<code>(lol)</code>
+		<code>*lol*</code>
+		<code>:lol:</code>
 	</smiley>
 	<smiley file="nod.gif">
 		<code>(nod)</code>
+	</smiley>
+	<smiley file="shake.gif">
+		<code>(shake)</code>
+	</smiley>
+	<smiley file="wave.gif">
+		<code>(wave)</code>
+	</smiley>
+	<smiley file="worry.gif">
+		<code>(worry)</code>
 	</smiley>
 </smileys>
