@@ -22,10 +22,6 @@
   -->
 
 <smileys>
-	<smiley file="angry.gif">
-		<code>(angry)</code>
-		<code>(punch)</code>
-	</smiley>
 	<smiley file="blush.gif">
 		<code>(blush)</code>
 	</smiley>
@@ -64,6 +60,9 @@
 	</smiley>
 	<smiley file="nod.gif">
 		<code>(nod)</code>
+	</smiley>
+	<smiley file="punch.gif">
+		<code>(punch)</code>
 	</smiley>
 	<smiley file="saynothing.gif">
 		<code>:X</code>
