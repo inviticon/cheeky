@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>eu.inviticon.cheeky</groupId>
 	<artifactId>cheeky</artifactId>
-	<version>1.10.0-SNAPSHOT</version>
+	<version>1.10.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>Cheeky</name>
 	<description>Cheeky animated 3D smileys</description>
@@ -210,5 +210,18 @@
 				</executions>
 			</plugin>
 		</plugins>
+		<extensions>
+			<extension>
+				<groupId>org.apache.maven.wagon</groupId>
+				<artifactId>wagon-ftp</artifactId>
+				<version>1.0-beta-6</version>
+			</extension>
+		</extensions>
 	</build>
+	<distributionManagement>
+		<repository>
+			<id>www.inviticon.eu</id>
+			<url>ftp://ftp.inviticon.eu/downloads</url>
+		</repository>
+	</distributionManagement>
 </project>
