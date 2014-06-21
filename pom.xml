@@ -221,7 +221,11 @@
 	<distributionManagement>
 		<repository>
 			<id>www.inviticon.eu</id>
-			<url>ftp://ftp.inviticon.eu/downloads</url>
+			<url>ftp://ftp.inviticon.eu/cheeky/repository</url>
 		</repository>
+		<site>
+			<id>www.inviticon.eu</id>
+			<url>ftp://ftp.inviticon.eu/cheeky</url>
+		</site>	
 	</distributionManagement>
 </project>
