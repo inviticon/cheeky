@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>eu.inviticon.cheeky</groupId>
 	<artifactId>cheeky</artifactId>
-	<version>1.10.1</version>
+	<version>1.11.0</version>
 	<packaging>pom</packaging>
 	<name>Cheeky</name>
 	<description>Cheeky animated 3D smileys</description>
@@ -116,6 +116,42 @@
 							<transformationSets>
 								<transformationSet>
 									<dir>src/main/xml</dir>
+									<stylesheet>src/main/xsl/adium.xsl</stylesheet>
+									<parameters>
+										<parameter>
+											<name>projectName</name>
+											<value>${project.name}</value>
+										</parameter>
+										<parameter>
+											<name>currentYear</name>
+											<value>${currentYear}</value>
+										</parameter>
+										<parameter>
+											<name>projectOrganizationName</name>
+											<value>${project.organization.name}</value>
+										</parameter>
+										<parameter>
+											<name>projectDescription</name>
+											<value>${project.description}</value>
+										</parameter>
+										<parameter>
+											<name>projectVersion</name>
+											<value>${project.version}</value>
+										</parameter>
+										<parameter>
+											<name>projectOrganizationUrl</name>
+											<value>${project.organization.url}</value>
+										</parameter>
+									</parameters>
+									<fileMappers>
+										<fileMapper implementation="org.codehaus.plexus.components.io.filemappers.RegExpFileMapper">
+											<pattern>smileys.xml</pattern>
+											<replacement>Emoticons.plist</replacement>
+										</fileMapper>
+									</fileMappers>
+								</transformationSet>
+								<transformationSet>
+									<dir>src/main/xml</dir>
 									<stylesheet>src/main/xsl/pidgin.xsl</stylesheet>
 									<parameters>
 										<parameter>
@@ -202,6 +238,7 @@
 						</goals>
 						<configuration>
 							<descriptors>
+								<descriptor>src/main/assembly/adium.xml</descriptor>
 								<descriptor>src/main/assembly/pidgin.xml</descriptor>
 								<descriptor>src/main/assembly/gajim.xml</descriptor>
 							</descriptors>
