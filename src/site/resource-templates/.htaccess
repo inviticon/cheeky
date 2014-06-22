@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteBase /cheeky
+Redirect 302 /latest-gajim /repository/eu/inviticon/cheeky/cheeky/${project.version}/cheeky-${project.version}-gajim.zip
+Redirect 302 /latest-pidgin /repository/eu/inviticon/cheeky/cheeky/${project.version}/cheeky-${project.version}-pidgin.tar.gz 
