@@ -94,6 +94,10 @@
 	<smiley file="worry.gif">
 		<code>(worry)</code>
 	</smiley>
+	<smiley file="yawn.gif">
+		<code>|-O</code>
+		<code>(yawn)</code>
+	</smiley>
 	<smiley file="yes.gif">
 		<code>(yes)</code>
 		<code>(y)</code>
