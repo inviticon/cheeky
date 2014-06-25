@@ -22,6 +22,14 @@
   -->
 
 <smileys>
+	<smiley file="astonished.gif">
+		<code>8-O</code>
+		<code>(astonished)</code>
+	</smiley>
+	<smiley file="confused.gif">
+		<code>:^)</code>
+		<code>(confused)</code>
+	</smiley>
 	<smiley file="blush.gif">
 		<code>(blush)</code>
 	</smiley>
@@ -75,6 +83,9 @@
 	</smiley>
 	<smiley file="smooch.gif">
 		<code>(smooch)</code>
+	</smiley>
+	<smiley file="tired.gif">
+		<code>(tired)</code>
 	</smiley>
 	<smiley file="vomit.gif">
 		<code>(vomit)</code>
