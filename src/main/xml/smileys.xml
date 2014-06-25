@@ -79,6 +79,9 @@
 	<smiley file="vomit.gif">
 		<code>(vomit)</code>
 	</smiley>
+	<smiley file="wasntme.gif">
+		<code>(wanstme)</code>
+	</smiley>
 	<smiley file="wave.gif">
 		<code>(wave)</code>
 	</smiley>
@@ -90,6 +93,10 @@
 	</smiley>
 	<smiley file="worry.gif">
 		<code>(worry)</code>
+	</smiley>
+	<smiley file="yawn.gif">
+		<code>|-O</code>
+		<code>(yawn)</code>
 	</smiley>
 	<smiley file="yes.gif">
 		<code>(yes)</code>
