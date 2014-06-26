@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>eu.inviticon.cheeky</groupId>
 	<artifactId>cheeky</artifactId>
-	<version>1.14.0</version>
+	<version>1.14.1</version>
 	<packaging>pom</packaging>
 	<name>Cheeky</name>
 	<description>Cheeky animated 3D smileys</description>
@@ -70,6 +70,21 @@
 						<configuration>
 							<name>currentYear</name>
 							<pattern>yyyy</pattern>
+						</configuration>
+					</execution>
+					<execution>
+						<id>A</id>
+						<phase>verify</phase>
+						<goals>
+							<goal>attach-artifact</goal>
+						</goals>
+						<configuration>
+							<artifacts>
+								<artifact>
+									<file>${project.build.directory}/${project.build.finalName}-aqq.aqq</file>
+									<type>aqq</type>
+								</artifact>
+							</artifacts>
 						</configuration>
 					</execution>
 				</executions>
@@ -268,6 +283,20 @@
 				<version>2.4</version>
 				<executions>
 					<execution>
+						<id>A</id>
+						<phase>package</phase>
+						<goals>
+							<goal>single</goal>
+						</goals>
+						<configuration>
+							<attach>false</attach>
+							<descriptors>
+								<descriptor>src/main/assembly/aqq.xml</descriptor>
+							</descriptors>
+						</configuration>
+					</execution>
+					<execution>
+						<id>B</id>
 						<phase>package</phase>
 						<goals>
 							<goal>single</goal>
@@ -275,10 +304,26 @@
 						<configuration>
 							<descriptors>
 								<descriptor>src/main/assembly/adium.xml</descriptor>
-								<descriptor>src/main/assembly/aqq.xml</descriptor>
 								<descriptor>src/main/assembly/pidgin.xml</descriptor>
 								<descriptor>src/main/assembly/gajim.xml</descriptor>
 							</descriptors>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<artifactId>maven-antrun-plugin</artifactId>
+				<version>1.7</version>
+ 				<executions>
+					<execution>
+						<phase>package</phase>
+						<goals>
+							<goal>run</goal>
+						</goals>
+						<configuration>
+							<target>
+								<move file="${project.build.directory}/${project.build.finalName}-aqq.zip" tofile="${project.build.directory}/${project.build.finalName}-aqq.aqq" />
+							</target>
 						</configuration>
 					</execution>
 				</executions>
