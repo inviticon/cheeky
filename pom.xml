@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>eu.inviticon.cheeky</groupId>
 	<artifactId>cheeky</artifactId>
-	<version>1.14.2</version>
+	<version>1.14.4</version>
 	<packaging>pom</packaging>
 	<name>Cheeky</name>
 	<description>Cheeky animated 3D smileys</description>
@@ -82,6 +82,7 @@
 							<artifacts>
 								<artifact>
 									<file>${project.build.directory}/${project.build.finalName}-aqq.aqq</file>
+									<classifier>aqq</classifier>
 									<type>aqq</type>
 								</artifact>
 							</artifacts>
