@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>eu.inviticon.cheeky</groupId>
 	<artifactId>cheeky</artifactId>
-	<version>1.14.1</version>
+	<version>1.14.2</version>
 	<packaging>pom</packaging>
 	<name>Cheeky</name>
 	<description>Cheeky animated 3D smileys</description>
@@ -197,7 +197,7 @@
 									<fileMappers>
 										<fileMapper implementation="org.codehaus.plexus.components.io.filemappers.RegExpFileMapper">
 											<pattern>smileys.xml</pattern>
-											<replacement>emots.ccs</replacement>
+											<replacement>emot.ccs</replacement>
 										</fileMapper>
 									</fileMappers>
 								</transformationSet>

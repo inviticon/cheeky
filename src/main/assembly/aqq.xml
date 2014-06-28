@@ -26,7 +26,7 @@
 	<formats>
 		<format>zip</format>
 	</formats>
-	<includeBaseDirectory>false</includeBaseDirectory>
+	<baseDirectory>${project.name}</baseDirectory>
 	<fileSets>
 		<fileSet>
 			<directory>${project.build.outputDirectory}</directory>
@@ -35,7 +35,7 @@
 		<fileSet>
 			<directory>${project.build.directory}/generated-resources/xml/xslt</directory>
 			<includes>
-				<include>emots.ccs</include>
+				<include>emot.ccs</include>
 			</includes>
 			<outputDirectory>/</outputDirectory>
 		</fileSet>
