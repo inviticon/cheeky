@@ -30,6 +30,10 @@
 		<code>:^)</code>
 		<code>(confused)</code>
 	</smiley>
+	<smiley file="beauty.gif">
+		<code>(beauty)</code>
+		<code>(makeup)</code>
+	</smiley>
 	<smiley file="blush.gif">
 		<code>(blush)</code>
 	</smiley>
@@ -76,17 +80,30 @@
 	<smiley file="punch.gif">
 		<code>(punch)</code>
 	</smiley>
+	<smiley file="sad.gif">
+		<code>:-(</code>
+		<code>:(</code>
+	</smiley>
 	<smiley file="saynothing.gif">
 		<code>:X</code>
 	</smiley>
 	<smiley file="shake.gif">
 		<code>(shake)</code>
 	</smiley>
+	<smiley file="smile.gif">
+		<code>:-)</code>
+		<code>:)</code>
+	</smiley>
 	<smiley file="smooch.gif">
 		<code>(smooch)</code>
 	</smiley>
 	<smiley file="tired.gif">
 		<code>(tired)</code>
+	</smiley>
+	<smiley file="twinkle.gif">
+		<code>;-)</code>
+		<code>;)</code>
+		<code>(twinkle)</code>
 	</smiley>
 	<smiley file="vomit.gif">
 		<code>(vomit)</code>
