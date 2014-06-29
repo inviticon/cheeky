@@ -98,6 +98,7 @@
 		<code>(smooch)</code>
 	</smiley>
 	<smiley file="tired.gif">
+		<code>(sleepy)</code>
 		<code>(tired)</code>
 	</smiley>
 	<smiley file="twinkle.gif">
@@ -107,6 +108,7 @@
 	</smiley>
 	<smiley file="vomit.gif">
 		<code>(vomit)</code>
+		<code>(sick)</code>
 	</smiley>
 	<smiley file="wasntme.gif">
 		<code>(wanstme)</code>
