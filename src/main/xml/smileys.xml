@@ -31,10 +31,11 @@
 		<code>(confused)</code>
 	</smiley>
 	<smiley file="beauty.gif">
-		<code>(beauty)</code>
+		<code>(twinkle)</code>
 		<code>(makeup)</code>
 	</smiley>
 	<smiley file="blush.gif">
+		<code>:-[</code>
 		<code>(blush)</code>
 	</smiley>
 	<smiley file="chuckle.gif">
@@ -46,6 +47,7 @@
 	<smiley file="cry.gif">
 		<code>;-(</code>
 		<code>:'-(</code>
+		<code>:'(</code>
 		<code>(cry)</code>
 	</smiley>
 	<smiley file="dance.gif">
@@ -65,11 +67,14 @@
 		<code>(headbang)</code>
 	</smiley>
 	<smiley file="kiss.gif">
+		<code>:-*</code>
 		<code>(kiss)</code>
 	</smiley>
 	<smiley file="lol.gif">
 		<code>:-D</code>
 		<code>:D</code>
+		<code>:-d</code>
+		<code>:d</code>
 		<code>(lol)</code>
 		<code>*lol*</code>
 		<code>:lol:</code>
@@ -86,6 +91,7 @@
 	</smiley>
 	<smiley file="saynothing.gif">
 		<code>:X</code>
+		<code>:-X</code>
 	</smiley>
 	<smiley file="shake.gif">
 		<code>(shake)</code>
@@ -104,14 +110,14 @@
 	<smiley file="twinkle.gif">
 		<code>;-)</code>
 		<code>;)</code>
-		<code>(twinkle)</code>
+		<code>(wink)</code>
 	</smiley>
 	<smiley file="vomit.gif">
 		<code>(vomit)</code>
 		<code>(sick)</code>
 	</smiley>
 	<smiley file="wasntme.gif">
-		<code>(wanstme)</code>
+		<code>(wasntme)</code>
 	</smiley>
 	<smiley file="wave.gif">
 		<code>(wave)</code>
