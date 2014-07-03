@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>eu.inviticon.cheeky</groupId>
 	<artifactId>cheeky</artifactId>
-	<version>1.16.0</version>
+	<version>1.17.0</version>
 	<packaging>pom</packaging>
 	<name>Cheeky</name>
 	<description>Cheeky animated 3D smileys</description>

@@ -38,6 +38,10 @@
 		<code>:-[</code>
 		<code>(blush)</code>
 	</smiley>
+	<smiley file="burger.gif">
+		<code>(eating)</code>
+		<code>(feeding)</code>
+	</smiley>
 	<smiley file="chuckle.gif">
 		<code>(chuckle)</code>
 	</smiley>
@@ -83,6 +87,9 @@
 		<code>(lol)</code>
 		<code>*lol*</code>
 		<code>:lol:</code>
+	</smiley>
+	<smiley file="music.gif">
+		<code>(music)</code>
 	</smiley>
 	<smiley file="nerdy.gif">
 		<code>(nerdy)</code>
