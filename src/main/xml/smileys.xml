@@ -23,6 +23,8 @@
 
 <smileys>
 	<smiley file="astonished.gif">
+		<code>:o</code>
+		<code>:-o</code>
 		<code>8-O</code>
 		<code>(astonished)</code>
 	</smiley>
@@ -88,10 +90,14 @@
 		<code>*lol*</code>
 		<code>:lol:</code>
 	</smiley>
+	<smiley file="magic.gif">
+		<code>(magic)</code>
+	</smiley>
 	<smiley file="music.gif">
 		<code>(music)</code>
 	</smiley>
 	<smiley file="nerdy.gif">
+		<code>8-|</code>
 		<code>(nerdy)</code>
 		<code>(nerd)</code>
 		<code>(smarty-pants)</code>
@@ -113,6 +119,9 @@
 	<smiley file="shake.gif">
 		<code>(shake)</code>
 	</smiley>
+	<smiley file="sigh.gif">
+		<code>(sigh)</code>
+	</smiley>
 	<smiley file="smile.gif">
 		<code>:-)</code>
 		<code>:)</code>
@@ -124,12 +133,16 @@
 		<code>(sleepy)</code>
 		<code>(tired)</code>
 	</smiley>
+	<smiley file="toilet.gif">
+		<code>(toilet)</code>
+	</smiley>
 	<smiley file="twinkle.gif">
 		<code>;-)</code>
 		<code>;)</code>
 		<code>(wink)</code>
 	</smiley>
 	<smiley file="vomit.gif">
+		<code>(puke)</code>
 		<code>(vomit)</code>
 		<code>(sick)</code>
 	</smiley>
