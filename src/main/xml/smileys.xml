@@ -136,6 +136,10 @@
 	<smiley file="toilet.gif">
 		<code>(toilet)</code>
 	</smiley>
+	<smiley file="trike.gif">
+		<code>(trike)</code>
+		<code>(sport)</code>
+	</smiley>
 	<smiley file="twinkle.gif">
 		<code>;-)</code>
 		<code>;)</code>
