@@ -36,6 +36,9 @@
 		<code>(twinkle)</code>
 		<code>(makeup)</code>
 	</smiley>
+	<smiley file="beverage.gif">
+		<code>(beverage)</code>
+	</smiley>
 	<smiley file="blush.gif">
 		<code>:-[</code>
 		<code>(blush)</code>
