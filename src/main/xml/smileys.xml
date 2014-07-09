@@ -74,6 +74,9 @@
 		<code>*facepalm*</code>
 		<code>:facepalm:</code>
 	</smiley>
+	<smiley file="finger.gif">
+		<code>(finger)</code>
+	</smiley>
 	<smiley file="happy.gif">
 		<code>(happy)</code>
 	</smiley>
@@ -92,6 +95,9 @@
 		<code>(lol)</code>
 		<code>*lol*</code>
 		<code>:lol:</code>
+	</smiley>
+	<smiley file="love.gif">
+		<code>(love)</code>
 	</smiley>
 	<smiley file="magic.gif">
 		<code>(magic)</code>
@@ -113,6 +119,9 @@
 	</smiley>
 	<smiley file="punch.gif">
 		<code>(punch)</code>
+	</smiley>
+	<smiley file="rain.gif">
+		<code>(rain)</code>
 	</smiley>
 	<smiley file="sad.gif">
 		<code>:-(</code>
