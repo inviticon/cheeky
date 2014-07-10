@@ -77,6 +77,9 @@
 	<smiley file="finger.gif">
 		<code>(finger)</code>
 	</smiley>
+	<smiley file="ghost.gif">
+		<code>(ghost)</code>
+	</smiley>
 	<smiley file="happy.gif">
 		<code>(happy)</code>
 	</smiley>
@@ -101,6 +104,9 @@
 	</smiley>
 	<smiley file="magic.gif">
 		<code>(magic)</code>
+	</smiley>
+	<smiley file="moon.gif">
+		<code>(moon)</code>
 	</smiley>
 	<smiley file="music.gif">
 		<code>(music)</code>
@@ -137,12 +143,18 @@
 	<smiley file="sigh.gif">
 		<code>(sigh)</code>
 	</smiley>
+	<smiley file="sleeping.gif">
+		<code>(sleep)</code>
+	</smiley>
 	<smiley file="smile.gif">
 		<code>:-)</code>
 		<code>:)</code>
 	</smiley>
 	<smiley file="smooch.gif">
 		<code>(smooch)</code>
+	</smiley>
+	<smiley file="sun.gif">
+		<code>(sun)</code>
 	</smiley>
 	<smiley file="tired.gif">
 		<code>(sleepy)</code>
