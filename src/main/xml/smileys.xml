@@ -53,6 +53,9 @@
 	<smiley file="clap.gif">
 		<code>(clap)</code>
 	</smiley>
+	<smiley file="cold.gif">
+		<code>(cold)</code>
+	</smiley>
 	<smiley file="cool.gif">
 		<code>8-)</code>
 		<code>8)</code>
@@ -85,6 +88,9 @@
 	</smiley>
 	<smiley file="headbang.gif">
 		<code>(headbang)</code>
+	</smiley>
+	<smiley file="juicebox.gif">
+		<code>(juicebox)</code>
 	</smiley>
 	<smiley file="kiss.gif">
 		<code>:-*</code>
@@ -119,6 +125,9 @@
 	</smiley>
 	<smiley file="nod.gif">
 		<code>(nod)</code>
+	</smiley>
+	<smiley file="old.gif">
+		<code>(old)</code>
 	</smiley>
 	<smiley file="poke.gif">
 		<code>(poke)</code>
