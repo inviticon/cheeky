@@ -21,6 +21,8 @@ The design of all emoticons is donated by the professional service of [inviticon
 ![IMAGE Cheeky drinking juice box](https://raw.githubusercontent.com/inviticon/cheeky/master/src/main/resources/whatever.gif)
 ![IMAGE Cheeky drinking juice box](https://raw.githubusercontent.com/inviticon/cheeky/master/src/main/resources/facepalm.gif)
 
+If you'd like to see a particular emoticon added to the theme, we are happy if you [open a ticket](../../issues/new) to propose another smiley!
+
 Licence
 -------
 
