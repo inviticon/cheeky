@@ -44,6 +44,7 @@
 		<code>(blush)</code>
 	</smiley>
 	<smiley file="burger.gif">
+		<code>(burger)</code>
 		<code>(eating)</code>
 		<code>(feeding)</code>
 	</smiley>
@@ -91,6 +92,7 @@
 	</smiley>
 	<smiley file="juicebox.gif">
 		<code>(juicebox)</code>
+		<code>(juice)</code>
 	</smiley>
 	<smiley file="kiss.gif">
 		<code>:-*</code>
