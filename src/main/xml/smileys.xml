@@ -32,6 +32,9 @@
 		<code>:^)</code>
 		<code>(confused)</code>
 	</smiley>
+	<smiley file="balloon.gif">
+		<code>(balloon)</code>
+	</smiley>
 	<smiley file="beauty.gif">
 		<code>(twinkle)</code>
 		<code>(makeup)</code>
@@ -89,6 +92,9 @@
 	</smiley>
 	<smiley file="headbang.gif">
 		<code>(headbang)</code>
+	</smiley>
+	<smiley file="hero.gif">
+		<code>(hero)</code>
 	</smiley>
 	<smiley file="juicebox.gif">
 		<code>(juicebox)</code>
