@@ -75,6 +75,11 @@
 		<code>\o/</code>
 		<code>(dance)</code>
 	</smiley>
+	<smiley file="diabolic.gif">
+		<code>&gt;:-&gt;</code>
+		<code>&gt;:&gt;</code>
+		<code>(diabolic)</code>
+	</smiley>	
 	<smiley file="facepalm.gif">
 		<code>m(</code>
 		<code>(facepalm)</code>
@@ -95,6 +100,11 @@
 	</smiley>
 	<smiley file="hero.gif">
 		<code>(hero)</code>
+	</smiley>
+	<smiley file="holy.gif">
+		<code>O:-)</code>
+		<code>O:)</code>
+		<code>(holy)</code>
 	</smiley>
 	<smiley file="juicebox.gif">
 		<code>(juicebox)</code>
@@ -173,6 +183,11 @@
 	<smiley file="sun.gif">
 		<code>(sun)</code>
 	</smiley>
+	<smiley file="tease.gif">
+		<code>:-P</code>
+		<code>:P</code>
+		<code>(tease)</code>
+	</smiley>
 	<smiley file="tired.gif">
 		<code>(sleepy)</code>
 		<code>(tired)</code>
@@ -216,5 +231,10 @@
 	<smiley file="yes.gif">
 		<code>(yes)</code>
 		<code>(y)</code>
+	</smiley>
+	<smiley file="yummy.gif">
+		<code>:-9</code>
+		<code>:9</code>
+		<code>(yummy)</code>
 	</smiley>
 </smileys>
