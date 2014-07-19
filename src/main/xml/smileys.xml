@@ -51,6 +51,9 @@
 		<code>(eating)</code>
 		<code>(feeding)</code>
 	</smiley>
+	<smiley file="busy.gif">
+		<code>(busy)</code>
+	</smiley>
 	<smiley file="chuckle.gif">
 		<code>(chuckle)</code>
 	</smiley>
