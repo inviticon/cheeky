@@ -66,9 +66,9 @@
 				<xsl:if test="position() &gt; 1">
 					<xsl:text>, </xsl:text>
 				</xsl:if>
-				<xsl:text>'</xsl:text>
+				<xsl:text>"</xsl:text>
 				<xsl:value-of select="."/>
-				<xsl:text>'</xsl:text>
+				<xsl:text>"</xsl:text>
 			</xsl:for-each>
 			<xsl:text>]</xsl:text>
 		</xsl:for-each>
