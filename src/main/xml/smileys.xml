@@ -82,7 +82,10 @@
 		<code>&gt;:-&gt;</code>
 		<code>&gt;:&gt;</code>
 		<code>(diabolic)</code>
-	</smiley>	
+	</smiley>
+	<smiley file="drowning.gif">
+		<code>(drowning)</code>
+	</smiley>
 	<smiley file="facepalm.gif">
 		<code>m(</code>
 		<code>(facepalm)</code>
@@ -166,6 +169,9 @@
 	<smiley file="saynothing.gif">
 		<code>:X</code>
 		<code>:-X</code>
+	</smiley>
+	<smiley file="scary.gif">
+		<code>(scary)</code>
 	</smiley>
 	<smiley file="shake.gif">
 		<code>(shake)</code>
