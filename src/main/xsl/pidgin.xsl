@@ -55,6 +55,9 @@
 		<xsl:text>&#10;</xsl:text>
 		<xsl:text>[default]&#10;</xsl:text>
 		<xsl:for-each select="smileys/smiley">
+			<xsl:if test="@hidden = 'true'">
+				<xsl:text>! </xsl:text>
+			</xsl:if>
 			<xsl:value-of select="@file"/> 
 			<xsl:for-each select="code">
 				<xsl:text> </xsl:text>
