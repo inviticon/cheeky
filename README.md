@@ -38,3 +38,8 @@ At the moment, *Cheeky* is available for the following products:
 * Gajim [Download](http://www.inviticon.eu/cheeky/latest-gajim)
 * Adium [Download](http://www.inviticon.eu/cheeky/latest-adium) (also available as [*Adium Xtra*](http://www.adiumxtras.com/index.php?a=xtras&xtra_id=8602))
 * AQQ [Download](http://www.inviticon.eu/cheeky/latest-aqq) (also available as in-app download [*AQQ Addon*](http://forum.aqq.eu/files/file/421-cheeky/))
+
+T-Shirt Shop
+------------
+
+You can support this open source project by [ordering](http://www.inviticon.eu/cheeky/Stuff.html) a cool Cheeky T-Shirt!
