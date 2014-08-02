@@ -182,6 +182,9 @@
 	<smiley file="sleeping.gif">
 		<code>(sleep)</code>
 	</smiley>
+	<smiley file="smelly.gif">
+		<code>(smelly)</code>
+	</smiley>
 	<smiley file="smile.gif">
 		<code>:-)</code>
 		<code>:)</code>
@@ -245,5 +248,8 @@
 		<code>:-9</code>
 		<code>:9</code>
 		<code>(yummy)</code>
+	</smiley>
+	<smiley file="zombie.gif">
+		<code>(zombie)</code>
 	</smiley>
 </smileys>
