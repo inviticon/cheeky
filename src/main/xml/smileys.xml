@@ -86,6 +86,9 @@
 	<smiley file="drowning.gif" hidden="true">
 		<code>(drowning)</code>
 	</smiley>
+	<smiley file="drunk.gif">
+		<code>(drunk)</code>
+	</smiley>
 	<smiley file="facepalm.gif">
 		<code>m(</code>
 		<code>(facepalm)</code>
@@ -111,6 +114,9 @@
 		<code>O:-)</code>
 		<code>O:)</code>
 		<code>(holy)</code>
+	</smiley>
+	<smiley file="inhaler.gif">
+		<code>(inhaler)</code>
 	</smiley>
 	<smiley file="juicebox.gif">
 		<code>(juicebox)</code>
@@ -210,6 +216,9 @@
 	<smiley file="trike.gif">
 		<code>(trike)</code>
 		<code>(sport)</code>
+	</smiley>
+	<smiley file="trumpet.gif">
+		<code>(trumpet)</code>
 	</smiley>
 	<smiley file="twinkle.gif">
 		<code>;-)</code>
