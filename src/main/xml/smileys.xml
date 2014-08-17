@@ -98,6 +98,9 @@
 	<smiley file="finger.gif">
 		<code>(finger)</code>
 	</smiley>
+	<smiley file="fubar.gif">
+		<code>(fubar)</code>
+	</smiley>
 	<smiley file="ghost.gif">
 		<code>(ghost)</code>
 	</smiley>
@@ -147,6 +150,9 @@
 	<smiley file="music.gif">
 		<code>(music)</code>
 	</smiley>
+	<smiley file="news.gif">
+		<code>(news)</code>
+	</smiley>
 	<smiley file="nerdy.gif">
 		<code>8-|</code>
 		<code>(nerdy)</code>
@@ -155,6 +161,10 @@
 	</smiley>
 	<smiley file="nod.gif">
 		<code>(nod)</code>
+	</smiley>
+	<smiley file="noplease.gif">
+		<code>(noplease)</code>
+		<code>(doh)</code>
 	</smiley>
 	<smiley file="old.gif">
 		<code>(old)</code>
