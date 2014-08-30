@@ -132,6 +132,9 @@
 	<smiley file="knock.gif">
 		<code>(knock)</code>
 	</smiley>
+	<smiley file="late.gif">
+		<code>(late)</code>
+	</smiley>
 	<smiley file="lol.gif">
 		<code>:-D</code>
 		<code>:D</code>
@@ -171,6 +174,9 @@
 	</smiley>
 	<smiley file="old.gif">
 		<code>(old)</code>
+	</smiley>
+	<smiley file="please.gif">
+		<code>(please)</code>
 	</smiley>
 	<smiley file="phone.gif">
 		<code>(phone)</code>
@@ -216,6 +222,9 @@
 	</smiley>
 	<smiley file="smooch.gif">
 		<code>(smooch)</code>
+	</smiley>
+	<smiley file="style.gif">
+		<code>(style)</code>
 	</smiley>
 	<smiley file="sun.gif">
 		<code>(sun)</code>
