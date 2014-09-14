@@ -39,12 +39,18 @@
 		<code>(twinkle)</code>
 		<code>(makeup)</code>
 	</smiley>
+	<smiley file="beg.gif">
+		<code>(beg)</code>
+	</smiley>
 	<smiley file="beverage.gif">
 		<code>(beverage)</code>
 	</smiley>
 	<smiley file="blush.gif">
 		<code>:-[</code>
 		<code>(blush)</code>
+	</smiley>
+	<smiley file="boring.gif">
+		<code>(boring)</code>
 	</smiley>
 	<smiley file="burger.gif">
 		<code>(burger)</code>
