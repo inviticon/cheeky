@@ -60,6 +60,11 @@
 	<smiley file="busy.gif">
 		<code>(busy)</code>
 	</smiley>
+	<smiley file="chewing-gum.gif">
+		<code>(gum)</code>
+		<code>(chewing-gum)</code>
+		<code>(bubble-gum)</code>
+	</smiley>
 	<smiley file="chuckle.gif">
 		<code>(chuckle)</code>
 	</smiley>
@@ -152,6 +157,9 @@
 	</smiley>
 	<smiley file="love.gif">
 		<code>(love)</code>
+	</smiley>
+	<smiley file="lunch.gif">
+		<code>(lunch)</code>
 	</smiley>
 	<smiley file="magic.gif">
 		<code>(magic)</code>
