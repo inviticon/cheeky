@@ -274,6 +274,42 @@
 										</fileMapper>
 									</fileMappers>
 								</transformationSet>
+								<transformationSet>
+									<dir>src/main/xml</dir>
+									<stylesheet>src/main/xsl/cheekychat.xsl</stylesheet>
+									<parameters>
+										<parameter>
+											<name>projectName</name>
+											<value>${project.name}</value>
+										</parameter>
+										<parameter>
+											<name>currentYear</name>
+											<value>${currentYear}</value>
+										</parameter>
+										<parameter>
+											<name>projectOrganizationName</name>
+											<value>${project.organization.name}</value>
+										</parameter>
+										<parameter>
+											<name>projectDescription</name>
+											<value>${project.description}</value>
+										</parameter>
+										<parameter>
+											<name>projectVersion</name>
+											<value>${project.version}</value>
+										</parameter>
+										<parameter>
+											<name>projectOrganizationUrl</name>
+											<value>${project.organization.url}</value>
+										</parameter>
+									</parameters>
+									<fileMappers>
+										<fileMapper implementation="org.codehaus.plexus.components.io.filemappers.RegExpFileMapper">
+											<pattern>smileys.xml</pattern>
+											<replacement>emoticons.properties</replacement>
+										</fileMapper>
+									</fileMappers>
+								</transformationSet>
 							</transformationSets>
 						</configuration>
 					</execution>
@@ -307,6 +343,7 @@
 								<descriptor>src/main/assembly/adium.xml</descriptor>
 								<descriptor>src/main/assembly/pidgin.xml</descriptor>
 								<descriptor>src/main/assembly/gajim.xml</descriptor>
+								<descriptor>src/main/assembly/cheekychat.xml</descriptor>
 							</descriptors>
 						</configuration>
 					</execution>
