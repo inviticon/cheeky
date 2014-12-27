@@ -55,7 +55,7 @@
 		<xsl:text>&#10;</xsl:text>
 		<xsl:for-each select="smileys/smiley">
 			<xsl:if test="@hidden = 'true'">
-				<xsl:text># hidden&#10;</xsl:text>
+				<xsl:text>hidden/</xsl:text>
 			</xsl:if>
 			<xsl:copy-of select="concat(@file, ' =')"/> 
 			<xsl:for-each select="code">
