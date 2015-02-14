@@ -118,6 +118,10 @@
 	<smiley file="ghost.gif">
 		<code>(ghost)</code>
 	</smiley>
+	<smiley file="gig.gif">
+		<code>(gig)</code>
+		<code>(carlton-dance)</code>
+	</smiley>
 	<smiley file="halloween.gif">
 		<code>(pumpkin)</code>
 		<code>(halloween)</code>
