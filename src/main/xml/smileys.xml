@@ -318,6 +318,9 @@
 	<smiley file="whatever.gif">
 		<code>(whatever)</code>
 	</smiley>
+	<smiley file="whistle.gif">
+		<code>(whistle)</code>
+	</smiley>
 	<smiley file="windy.gif">
 		<code>(windy)</code>
 	</smiley>
