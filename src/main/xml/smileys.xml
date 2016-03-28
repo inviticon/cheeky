@@ -3,7 +3,7 @@
   #%L
   Cheeky
   %%
-  Copyright (C) 2014 - 2015 inviticon
+  Copyright (C) 2014 - 2016 inviticon
   %%
   This program is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as
@@ -143,6 +143,9 @@
 		<code>O:-)</code>
 		<code>O:)</code>
 		<code>(holy)</code>
+	</smiley>
+	<smiley file="hopeful.gif">
+		<code>(hopeful)</code>
 	</smiley>
 	<smiley file="idea.gif">
 		<code>(idea)</code>
